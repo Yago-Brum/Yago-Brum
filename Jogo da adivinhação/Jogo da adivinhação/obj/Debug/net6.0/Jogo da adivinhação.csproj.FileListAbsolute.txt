@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.AssemblyInfo.cs
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\bin\Debug\net6.0\Jogo da adivinhação.exe
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\bin\Debug\net6.0\Jogo da adivinhação.deps.json
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\bin\Debug\net6.0\Jogo da adivinhação.runtimeconfig.json
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\bin\Debug\net6.0\Jogo da adivinhação.dll
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\bin\Debug\net6.0\Jogo da adivinhação.pdb
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.dll
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\refint\Jogo da adivinhação.dll
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.pdb
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\Jogo da adivinhação.genruntimeconfig.cache
+C:\Temp\Projetos\Jogo da adivinhação\Jogo da adivinhação\obj\Debug\net6.0\ref\Jogo da adivinhação.dll
