@@ -10,6 +10,7 @@ I’m a software developer passionate about creating innovative solutions.
 
 - Software development
 - Mainly C#
+- Embarcadero Delphi
 - Emerging technologies
 
 ## 📫 How to Reach Me
