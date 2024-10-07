@@ -16,7 +16,10 @@ I’m a software developer passionate about creating innovative solutions.
 ## 📫 How to Reach Me
 
 You can contact me via email: [yago.brum@gmail.com](mailto:yago.brum@gmail.com)
-
+<div>
+<a href = "mailto:yago.brum@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yago-brum" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 ## 🛠️ Tools and Technologies
