@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @Yago-Brum
 
-![Profile Image](https://avatars.githubusercontent.com/u/152230184?s=400&u=c06d7a0444ff18178fe1a7255696dab832ee2918&v=4) <!-- Replace with your profile image link -->
-
 ## 🌟 About Me
 
 I’m a software developer passionate about creating innovative solutions.
