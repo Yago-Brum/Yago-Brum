@@ -22,7 +22,7 @@ I’m a software developer passionate about creating innovative solutions.
 ## 🛠️ Tools and Technologies
 
 - Languages: C#, Pascal
-- Frameworks: .NET, Delphi
+- Frameworks: .NET, Python, Delphi
 - Tools: Visual Studio, Git, MS-SQL
 
 ---
